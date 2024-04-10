@@ -199,7 +199,6 @@ const styles = StyleSheet.create({
   },
   contentContainer: {
     flex: 1,
-    backgroundColor: 'red',
   },
   itemContainer: {
     flexDirection: 'row',
