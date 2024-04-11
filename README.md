@@ -2,8 +2,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
-![1712775736175](https://github.com/tusharsahu17/albumApp/assets/103112334/841a6d30-92e9-4a4e-8f8e-69d08e63652c)
-![1712775736166](https://github.com/tusharsahu17/albumApp/assets/103112334/29f6d32b-b77f-4448-a0af-75691c417fc0)
+![1712775736175](https://github.com/tusharsahu17/albumApp/assets/103112334/841a6d30-92e9-4a4e-8f8e-69d08e63652c | width=100)
+![1712775736166](https://github.com/tusharsahu17/albumApp/assets/103112334/29f6d32b-b77f-4448-a0af-75691c417fc0 | width=100)
 ![1712775736158](https://github.com/tusharsahu17/albumApp/assets/103112334/e7742771-9edf-4ec1-af8a-474645e10b24)
 ![1712775736148](https://github.com/tusharsahu17/albumApp/assets/103112334/c9198871-4ae4-452e-99ba-5d3a12926c4b)
 ![1712775736140](https://github.com/tusharsahu17/albumApp/assets/103112334/cf7f705d-d0da-46e6-9b2b-fb04e8d89237)
