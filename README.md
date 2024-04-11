@@ -1,7 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/tusharsahu17/albumApp/assets/103112334/841a6d30-92e9-4a4e-8f8e-69d08e63652c)" width="200" height="400" />
+
 ![1712775736175](https://github.com/tusharsahu17/albumApp/assets/103112334/841a6d30-92e9-4a4e-8f8e-69d08e63652c)
 ![1712775736166](https://github.com/tusharsahu17/albumApp/assets/103112334/29f6d32b-b77f-4448-a0af-75691c417fc0)
 ![1712775736158](https://github.com/tusharsahu17/albumApp/assets/103112334/e7742771-9edf-4ec1-af8a-474645e10b24)
